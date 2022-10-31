@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "840808649117",
+    "project_id": "belajarsdap",
+    "storage_bucket": "belajarsdap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840808649117:android:7f7148f93a95ff3185df74",
+        "android_client_info": {
+          "package_name": "com.ta.belajarsdap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840808649117-jtbc5u21rjvqfsu753lkdi86lcil7fed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ta.belajarsdap",
+            "certificate_hash": "a3733b31805e8d4e9bedb884e6ad6d4e6169448f"
+          }
+        },
+        {
+          "client_id": "840808649117-n0im10kpbtqt8vp48fgs7hg5m11ik235.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChM0eTWq6gJJ_w8KFITK-XuOZXHsE2Hhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840808649117-n0im10kpbtqt8vp48fgs7hg5m11ik235.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
